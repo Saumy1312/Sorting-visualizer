@@ -1,25 +1,62 @@
-# Sorting_Visualizer
+🌀 Sorting Visualizer
+Interactive web app to visualize and compare sorting algorithms in real-time. Built using HTML, CSS, and JavaScript, it helps users understand how sorting algorithms work step by step through animations.
 
-A web application showcasing the inner workings of sorting algorithms.
+<!-- Add a gif or screenshot here if available -->
 
-Implemented algorithms:
-1) Bubble sort
-2) Selection sort
-3) Insertion sort
-4) Merge sort
-5) Quick sort
-6) Heap sort
+🔧 Features
+🎞️ Real-time animations of sorting algorithms
 
-Features:
-1) Colored representation of step being executed.
-  1.1) Blue:default
-  1.2) Yellow: Being compared
-  1.3) Red: Identified as in incorrect position and to be moved
-  1.4) Green: In correct position
-2) 3 Controls for visualizations
-  2.1) Speed of visualization (5 speed levels)
-  2.2) Data size ()
-  2.3) Generation of new data (Randomly generate new data).
-4) Time and Space complexity of algorithm being visualized.
+🔢 Adjustable array size
 
+🕒 Adjustable sorting speed
 
+⏸️ Pause & resume during sorting
+
+📊 Compare multiple algorithms visually
+
+🚀 Algorithms Included
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+🌐 Live Demo
+Coming Soon or Host with GitHub Pages
+
+🛠️ Installation
+bash
+Copy
+Edit
+git clone https://github.com/Saumy1312/Sorting-visualizer.git
+cd Sorting-visualizer
+open index.html in your browser
+No additional setup required — it's 100% frontend!
+
+📁 Project Structure
+pgsql
+Copy
+Edit
+Sorting-visualizer/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+🧠 Learning Goals
+Understand sorting algorithm mechanics
+
+Practice DOM manipulation and event handling in JavaScript
+
+Improve visual thinking for algorithm development
+
+🤝 Contributing
+Pull requests are welcome! If you'd like to improve the UI, add more sorting algorithms, or optimize performance — feel free to fork and submit a PR.
+
+🙋‍♂️ Author
+Saumy Singh
+🔗 GitHub

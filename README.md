@@ -1,71 +1,78 @@
-🌀 Sorting Visualizer 
---
-Interactive web app to visualize and compare sorting algorithms in real-time. Built using HTML, CSS, and JavaScript, it helps users understand how sorting algorithms work step by step through animations.
+# 🌀 Sorting Visualizer
 
-<!-- Add a gif or screenshot here if available -->
---
+A sleek, interactive **sorting algorithm visualizer** built with HTML, CSS, and JavaScript.  
+Watch how popular algorithms work step by step — perfect for learning and demo purposes!
 
-🔧 Features
-🎞️ Real-time animations of sorting algorithms
+<!--![Sorting Visualizer Demo](demo.gif) <!-- Replace with actual demo gif -->
 
-🔢 Adjustable array size
+---
 
-🕒 Adjustable sorting speed
+## 🔍 Features
 
-⏸️ Pause & resume during sorting
+- 🎞️ Real-time animations
+- 🔢 Adjustable array size
+- 🕒 Adjustable speed control
+- ⏸️ Pause/resume sorting
+- ✅ Easy-to-use interface
+- 📱 Fully responsive design
 
-📊 Compare multiple algorithms visually
---
+---
 
-🚀 Algorithms Included
-Bubble Sort
+## 🚀 Algorithms Included
 
-Selection Sort
+- 🫧 Bubble Sort  
+- 📍 Selection Sort  
+- 🧩 Insertion Sort  
+- ✂️ Quick Sort  
+- 🧬 Merge Sort
 
-Insertion Sort
+---
 
-Merge Sort
+## 💻 Live Demo
 
-Quick Sort
---
+> 🔗 Coming Soon (or host using GitHub Pages)
 
-🌐 Live Demo
-Coming Soon or Host with GitHub Pages
---
+Want help setting this up? Just ask!
 
-🛠️ Installation
+---
+
+## 📦 Getting Started
+
+### 1. Clone this repo
+```bash
+git clone https://github.com/Saumy1312/Sorting-visualizer.git
+cd Sorting-visualizer
+2. Open in Browser
+Open index.html in any modern browser (Chrome recommended).
+
+No installation required — 100% frontend.
+
+📁 Project Structure
 bash
 Copy
 Edit
-git clone https://github.com/Saumy1312/Sorting-visualizer.git
-cd Sorting-visualizer
-open index.html in your browser
-No additional setup required — it's 100% frontend!
---
-
-📁 Project Structure
-pgsql
-Copy
-Edit
 Sorting-visualizer/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
---
+├── index.html       # Main HTML page
+├── style.css        # Visual styling
+├── script.js        # Core sorting logic & animations
+├── demo.gif         # Animation preview (optional)
+└── README.md        # You're here!
+🎓 Educational Value
+This project helps in:
 
-🧠 Learning Goals
-Understand sorting algorithm mechanics
+Understanding sorting algorithm logic
 
-Practice DOM manipulation and event handling in JavaScript
+Learning algorithm complexity via visual comparison
 
-Improve visual thinking for algorithm development
---
+Practicing DOM manipulation in JavaScript
 
-🤝 Contributing
-Pull requests are welcome! If you'd like to improve the UI, add more sorting algorithms, or optimize performance — feel free to fork and submit a PR.
---
+📸 Preview
+Add a few static screenshots here (optional)
 
-🙋‍♂️ Author
+🙌 Contributing
+Want to add more algorithms or improve the UI?
+Feel free to fork this repo and create a pull request.
+
+👨‍💻 Author
 Saumy Singh
-🔗 GitHub
+🔗 GitHub Profile

@@ -1,4 +1,5 @@
-🌀 Sorting Visualizer
+🌀 Sorting Visualizer 
+--
 Interactive web app to visualize and compare sorting algorithms in real-time. Built using HTML, CSS, and JavaScript, it helps users understand how sorting algorithms work step by step through animations.
 
 <!-- Add a gif or screenshot here if available -->

@@ -3,7 +3,7 @@
 A sleek, interactive **sorting algorithm visualizer** built with HTML, CSS, and JavaScript.  
 Watch how popular algorithms work step by step — perfect for learning and demo purposes!
 
-<!--![Sorting Visualizer Demo](demo.gif) <!-- Replace with actual demo gif -->
+![Sorting Visualizer Demo](demo.gif) <!-- Replace with actual demo gif -->
 
 ---
 
@@ -32,20 +32,23 @@ Watch how popular algorithms work step by step — perfect for learning and demo
 
 > 🔗 Coming Soon (or host using GitHub Pages)
 
-Want help setting this up? Just ask!
-
 ---
 
 ## 📦 Getting Started
 
 ### 1. Clone this repo
+
 ```bash
 git clone https://github.com/Saumy1312/Sorting-visualizer.git
 cd Sorting-visualizer
-2. Open in Browser
-Open index.html in any modern browser (Chrome recommended).
+```
 
-No installation required — 100% frontend.
+2. Open in Browser
+Just open index.html in any modern browser (Chrome recommended).
+
+No installation required — it's 100% frontend.
+
+---
 
 📁 Project Structure
 bash
@@ -66,12 +69,13 @@ Learning algorithm complexity via visual comparison
 
 Practicing DOM manipulation in JavaScript
 
-📸 Preview
-Add a few static screenshots here (optional)
+
 
 🙌 Contributing
 Want to add more algorithms or improve the UI?
 Feel free to fork this repo and create a pull request.
+
+
 
 👨‍💻 Author
 Saumy Singh
